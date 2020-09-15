@@ -1,0 +1,21 @@
+body {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    background-color: black;
+  text-align: center;
+  color:white;
+  position: fixed;
+  bottom: 0;
+  }
+#img-thumbnail {
+    background-image: url('../img/erreur404.jpg');
+}
+h1 {
+    color : red;
+}
+h2 {
+    color: orange;
+}

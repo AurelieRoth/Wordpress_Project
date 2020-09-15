@@ -1,0 +1,13 @@
+body {
+    background-image: url('../img/noel.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    background-color: black;
+  text-align: center;
+  color:white;
+  position: fixed;
+  bottom: 0;
+  
+  }
